@@ -19,6 +19,10 @@ OSI 开放式系统互联模型（Open System Interconnection Model）是一种�
 
 在客户端与服务器能够交互之前，必须在这两者间建立一个[TCP]([https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE](https://zh.wikipedia.org/wiki/传输控制协议))链接，打开一个 TCP 连接需要多次往返（三次握手）交换消息。
 
+- 参考
+
+[HTTP概述-MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Overview)
+
 
 
 

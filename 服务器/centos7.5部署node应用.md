@@ -1,7 +1,5 @@
 # centos7.5部署node应用
 
-
-
 ## 安装nvm
 
 [原教程地址：云服务器安装nvm管理node](http://www.geekjc.com/post/5cb82908a9381e261825a155)
